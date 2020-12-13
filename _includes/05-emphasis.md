@@ -4,8 +4,8 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
   * Asynchronous JS
   * Express
 * Python
-  * Basic and Advanced Python
-  * Python for Data Science
+  * ~Basic and Advanced Python~
+  * *Python for Data Science*
     * Pandas
     * Numpy
     * Matplotlib
